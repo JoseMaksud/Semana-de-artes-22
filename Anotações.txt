@@ -1,0 +1,8 @@
+Converte de imagem para html
+Converte de colorido para escala de cinza
+Converte de colorido para p&b
+Converte em imagem em pixel
+Aumenta da resolução da imagem
+Gerar o RGB da imagem
+
+
